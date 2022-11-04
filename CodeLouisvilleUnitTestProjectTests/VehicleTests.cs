@@ -17,9 +17,9 @@ namespace CodeLouisvilleUnitTestProjectTests
             //arrange
             throw new NotImplementedException();
             //act
-
+            
             //assert
-
+             
         }
 
         //Verify the parameterized constructor successfully creates a new
@@ -31,9 +31,9 @@ namespace CodeLouisvilleUnitTestProjectTests
             //arrange
             throw new NotImplementedException();
             //act
-
+            var vehicle = new Vehicle();
             //assert
-
+            Assert.NotNull(vehicle);
         }
 
         //Verify that the parameterless AddGas method fills the gas tank
@@ -57,7 +57,7 @@ namespace CodeLouisvilleUnitTestProjectTests
             //arrange
             throw new NotImplementedException();
             //act
-
+            
             //assert
 
         }
