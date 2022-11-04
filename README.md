@@ -1,5 +1,5 @@
 # QACourse1Project
-Contains the sample code and base project files for the Code Louisville QA Course 1 final project
+Contains all the sample code and base project files for the Code Louisville QA Course 1 final project
 
 # Project Rubric
 ## 1: Test Plan
