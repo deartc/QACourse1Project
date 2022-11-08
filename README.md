@@ -121,4 +121,4 @@ Unit test your newly created `Car` class as follows:
 Before submitting your project, ensure that you have completed all the requirements above. If done correctly, your project should have:
 - At least 4 classes: `Vehicle`, `SemiTruck`, `CargoItem`, `Car`, and any others you may have needed along the way.
 - At least 3 test classes: `VehicleTests`, `SemiTruckTests`, and `CarTests`.
-- Around 40 total unit tests. To pass, at least 30 of your unit tests must be passing and correct, but you should attempt them all in case you make mistakes.
+- Around 40 total unit tests. To pass, at least 30 of your unit tests must be passing and correct, but you should attempt them all in case you make mistake.
